@@ -1,5 +1,4 @@
 // create your App component here
-// ./components/App.js
 import React, { useState, useEffect } from "react";
 
 function App() {
